@@ -62,7 +62,7 @@ class WxApp extends BaseController
                 'response_type' => 'array',
                 'log' => [
                     'level' => 'debug',
-                    'file'  => '/tmp/rageframe/wechat/' . date('Y-m') . '/' . date('d') . '/wxapp.log',
+                    'file'  => '/tmp/netos/wechat/' . date('Y-m') . '/' . date('d') . '/wxapp.log',
                 ],
             ];
 

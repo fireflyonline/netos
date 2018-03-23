@@ -111,7 +111,7 @@ class Wechat extends Component
             'log' => [
                 'level'      => 'debug',
                 'permission' => 0777,
-                'file'       => '/tmp/rageframe/wechat/' . date('Y-m') . '/' . date('d') . '/wechat.log',
+                'file'       => '/tmp/netos/wechat/' . date('Y-m') . '/' . date('d') . '/wechat.log',
             ],
 
             /**
