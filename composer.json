@@ -1,0 +1,29 @@
+{
+    "name": "wayfiretech/netos",
+    "description": "RageFrame核心包",
+    "keywords": [
+        "yii",
+        "yii2",
+        "cms",
+        "cmf",
+        "php",
+    ],
+    "authors": [
+        {
+            "name": "phper_hyf",
+            "email": "wayfiretech@163.com"
+        }
+    ],
+    "type": "project",
+    "license": "Apache-2.0",
+    "homepage": "https://github.com/wayfiretech/netos",
+    "require": {
+        "php": ">=7.0",
+        "yiisoft/yii2": ">=2.0.6"
+    },
+    "autoload": {
+        "psr-4": {
+            "wayfiretech\\netos\\": ""
+        }
+    }
+}
