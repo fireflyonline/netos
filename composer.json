@@ -1,17 +1,17 @@
 {
     "name": "wayfiretech/netos",
-    "description": "RageFrame核心包",
+    "description": "wayfiretech/netos",
     "keywords": [
         "yii",
         "yii2",
-        "cms",
+        "netos",
         "cmf",
         "php"
     ],
     "authors": [
         {
             "name": "phper_hyf",
-            "email": "wayfiretech@163.com"
+            "email": "2192138785@qq.com"
         }
     ],
     "type": "project",
